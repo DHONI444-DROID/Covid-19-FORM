@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&family=Stint+Ultra+Condensed&display=swap');
+
+body {
+    font-family: 'Sigmar One', cursive;
+font-family: 'Stint Ultra Condensed', cursive;
+    background-image: url(https://www.fda.gov/files/covid19-1600x900.jpg);
+    background-size: cover;
+    text-align: center;
+
+}
+
+*{
+    padding:0;
+    margin:0;
+}
+
+
+form{
+    background-color: white;
+    margin:2% 10%;
+    padding: 50px;
+    opacity: 0.8;
+    border-radius:20px;
+
+}
+
+h1{
+    font: size 50px;
+    margin-top: 20px;
+    color:black
+;
+}
+#button{
+    padding: 8px;
+    background-color: crimson;
+    font-weight: bold;
+    color: white;
+    border-radius: 4px;
+}
+label{
+    font-size: 20px;
+    }
+
